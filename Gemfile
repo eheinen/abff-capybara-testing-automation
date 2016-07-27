@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'chromedriver-helper'
+gem 'pry'
+gem 'page-object'
+gem 'cucumber'
+gem 'rspec'
+gem 'rake'
+gem 'selenium-webdriver'
+gem 'capybara'
